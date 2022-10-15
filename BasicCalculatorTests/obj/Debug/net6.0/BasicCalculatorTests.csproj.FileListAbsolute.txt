@@ -1,0 +1,6 @@
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculatorTests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculatorTests/obj/Debug/net6.0/BasicCalculatorTests.csproj.AssemblyReference.cache
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculatorTests/obj/Debug/net6.0/BasicCalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculatorTests/obj/Debug/net6.0/BasicCalculatorTests.AssemblyInfoInputs.cache
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculatorTests/obj/Debug/net6.0/BasicCalculatorTests.AssemblyInfo.cs
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculatorTests/obj/Debug/net6.0/BasicCalculatorTests.csproj.CoreCompileInputs.cache

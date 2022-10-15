@@ -1,0 +1,12 @@
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/bin/Debug/net6.0/BasicCalculator.deps.json
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/bin/Debug/net6.0/BasicCalculator.dll
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/bin/Debug/net6.0/BasicCalculator.pdb
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/obj/Debug/net6.0/BasicCalculator.csproj.AssemblyReference.cache
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/obj/Debug/net6.0/BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/obj/Debug/net6.0/BasicCalculator.AssemblyInfoInputs.cache
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/obj/Debug/net6.0/BasicCalculator.AssemblyInfo.cs
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/obj/Debug/net6.0/BasicCalculator.csproj.CoreCompileInputs.cache
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/obj/Debug/net6.0/BasicCalculator.dll
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/obj/Debug/net6.0/refint/BasicCalculator.dll
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/obj/Debug/net6.0/BasicCalculator.pdb
+/Users/gurpreetkaur/Projects/WebAPI/BasicCalculator/obj/Debug/net6.0/ref/BasicCalculator.dll
